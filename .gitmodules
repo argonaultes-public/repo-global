@@ -1,0 +1,3 @@
+[submodule "server-001"]
+	path = server-001
+	url = git@github.com:argonaultes-education/server-001.git
